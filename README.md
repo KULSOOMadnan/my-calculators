@@ -1,4 +1,4 @@
-                      <h1>Mini Calculator</h1>
+<h1>Mini Calculator</h1>
 <p>I create an arthimatic mini calculator. which perform basic mathethmatical  opeartion  </p>
 <h2>Features</h2>
 <p>It has four arthimatic operations which is....</p>
@@ -13,3 +13,4 @@
 <h2>Technologies Used</h2>
 <p> I create my project with the help of <b>inquirer , node.js and typescript</b></p>
 
+<h3>Thnaks</h3>
