@@ -9,7 +9,7 @@
  <li>Division</li>
 </ul>
 <h2> npm install </h2>
-<p> You can also install this calculator from <b>npm</b> .th cammand is <b>npm i pivotal-calculator</b> </p>
+<p> You can also install this calculator from <b>npm</b> .the cammand is <b>npm i pivotal-calculator</b> </p>
 <h2>Technologies Used</h2>
 <p> I create my project with the help of <b>inquirer , node.js and typescript</b></p>
 
